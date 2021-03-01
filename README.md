@@ -10,8 +10,6 @@
 
 **Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Terças serão síncronas, quintas serão atividades assíncronas
 
-**SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/softwarelivre2021/shared_invite/zt-m44n2h3n-~4K_Q8dXNdxwbcMcKAhrCQ) para acessar o curso 
-
 ## Grupos
 
 Quando definir seu par, adicione os nomes aqui na [página de grupos](groups.md). Faça isso [alterando a página](groups.md) e criando um pull request.
