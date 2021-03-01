@@ -6,7 +6,7 @@
 
 **PAluno**: Quintas-feiras 19:30-21:10
 
-**Aulas**: Terça-feira 19:30-21:10 / Quinta-feira (Assíncrona, mas estarei disponível das 21:20-23:00)
+**Aulas**: Terça e quinta 15:50 - 17:30 (Terças serão aulas assíncronas e na quinta serão aulas síncronas)
 
 **Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Terças serão síncronas, quintas serão atividades assíncronas
 
