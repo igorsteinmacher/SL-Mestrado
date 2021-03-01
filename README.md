@@ -41,3 +41,14 @@ competências avançadas:
 * compreender os direitos de propriedade intelectual, licenciamento e as implicações do uso de SL;
 * construir soluções e correções de forma a contribuir para um projeto com SL;
 * participar de uma comunidade SL, contribuindo com SL.
+
+## Avaliação
+A disciplina tem 3 momentos:
+1. Conceitos, processo, e ferramentas de SL
+2. Contribuição para projeto de SL
+3. Pesquisa em SL
+
+A avaliação acompanhará esses 3 momentos, sendo da seguinte forma:
+* 30% relacionados ao momento 1, com diversas atividades curtas e projetos feitos de maneira assíncrona. Todas as atividades terão o mesmo peso e somarão 30% da nota final
+* 35% serão relacionados à contribuição a projetos de SL (5% Checkpoint 0; 7% Checkpoint 1; 5% Checkpoint 2; 10% Checkpoint 3; 8% Relatório final)
+* 35% Artigo final
