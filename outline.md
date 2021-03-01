@@ -1,8 +1,8 @@
 
 |           |                                                                                |     Entrega (deadline)               |     Novo trabalho                     |
 |-----------|--------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|
-| 2-Mar-21 |     Welcome! ([Slides](notes/Lecture_01.pdf))            |                                      |                                       |
-| 4-Mar-21 |     Software Livre o que? ([Slides](notes/Lecture_02.pdf))|                                     |                                       | 
+| 2-Mar-21 |     Welcome!            |                                      |                                       |
+| 4-Mar-21 |     Software Livre o que? |                                     |                                       | 
 | 9-Mar-21 | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md))|          |                                       |
 | 11-Mar-21  |     Software Livre: História e Motivos                 |                                      | Contribuição para o Wikipedia         |
 | 16-Mar-21  | ** Atividade Catedral e o Bazar                        |                                      |                                       |
