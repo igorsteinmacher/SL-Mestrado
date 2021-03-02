@@ -50,5 +50,5 @@ A disciplina tem 3 momentos:
 
 A avaliação acompanhará esses 3 momentos, sendo da seguinte forma:
 * 30% relacionados ao momento 1, com diversas atividades curtas e projetos feitos de maneira assíncrona. Todas as atividades terão o mesmo peso e somarão 30% da nota final
-* 35% serão relacionados à contribuição a projetos de SL (5% Checkpoint 0; 7% Checkpoint 1; 5% Checkpoint 2; 10% Checkpoint 3; 8% Relatório final)
-* 35% Artigo final
+* 35% serão relacionados à contribuição a projetos de SL (5% Checkpoint 0; 7% Checkpoint 1; 5% Checkpoint 2; 8% Checkpoint 3;5% Relatório final; 5% Video logs)
+* 35% Artigo final (5% objetivo/problema; 5% método; 5% literatura; 5% resultados preliminares; 15% artigo)
