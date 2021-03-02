@@ -8,7 +8,7 @@
 
 **Aulas**: Terça e quinta 15:50 - 17:30 (Terças serão aulas assíncronas e na quinta serão aulas síncronas)
 
-**Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Terças serão síncronas, quintas serão atividades assíncronas
+**Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda.
 
 ## Grupos
 
