@@ -1,14 +1,16 @@
 # Git Assignment
 
-**INDIVIDUAL ASSIGNMENT**
+**INDIVIDUAL**
 
-**Value**: 
+**Entrega**: 23-Mar-21
 
-## Description
+Copie o arquivo em um repositorio que seja seu e coloque as respostas nas caixas abaixo
+Abra uma issue nesse repositório aqui indicando o link para o arquivo no seu repo.
 
-### Understanding the repo
-Para fazer isso, você terá que baixar [handson.zip] (handson.zip) e descompactá-lo.
-A pasta handson é um repositório git. Usando a linha de comando, altere o diretório para "handson /"
+### Entenda o repositorio
+Baixe o arquivo [handson.zip] (handson.zip) e descompacte-o
+A pasta handson é um repositório git. Usando a linha de comando, altere o diretório para "handson/"
+
 
 As caixas vazias
 ```
