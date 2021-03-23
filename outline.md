@@ -7,7 +7,7 @@
 | 11-Mar-21  | ** [Atividade Catedral e o Bazar](assignments/cathbaz.md)                       |        | [Contribuição para o Wikipedia](assignments/wikipedia.md)         |
 | 16-Mar-21  | OSS Infrastructure: Git e GitHub                      |                                      |                                       |
 | 18-Mar-21  | ** [Atividade Lidando com Git](assignments/gitAssignment.md)                     | Contribuição para o Wikipedia        | Lidando com o Git                     |
-| 23-Mar-21 |     OSS Infrastructure: Code Review ([Slides](notes/Lecture_04.pdf))                        |                                      |  Pull Request/Code Review Activity                                     |
+| 23-Mar-21 |     OSS Infrastructure: Code Review ([Slides](notes/Lecture_04.pdf))  |                    |  [Pull Request/Code Review Activity](assignments/PRcodeReview.md)                 |
 | 25-Mar-21 |                         |Lidando com o Git                     |      |
 | 30-Mar-21 | ** Code review                                          |                                      |                                       |
 | 1-Apr-21 |     Criando um projeto                                   |     Pull Request/Code Review         | Criar projeto + Escolher licença      |
