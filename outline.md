@@ -6,9 +6,9 @@
 | 9-Mar-21 |  Software Livre: História e Motivos           |         |                                       |
 | 11-Mar-21  | ** [Atividade Catedral e o Bazar](assignments/cathbaz.md)                       |        | [Contribuição para o Wikipedia](assignments/wikipedia.md)         |
 | 16-Mar-21  | OSS Infrastructure: Git e GitHub                      |                                      |                                       |
-| 18-Mar-21  |                      | Contribuição para o Wikipedia        | Lidando com o Git                     |
-| 23-Mar-21 | ** Atividade Lidando com Git                            |                                      |                                       |
-| 25-Mar-21 |     OSS Infrastructure: Code Review                     |Lidando com o Git                     |     Pull Request/Code Review Activity |
+| 18-Mar-21  | ** Atividade Lidando com Git                     | Contribuição para o Wikipedia        | Lidando com o Git                     |
+| 23-Mar-21 |     OSS Infrastructure: Code Review                         |                                      |  Pull Request/Code Review Activity                                     |
+| 25-Mar-21 |                         |Lidando com o Git                     |      |
 | 30-Mar-21 | ** Code review                                          |                                      |                                       |
 | 1-Apr-21 |     Criando um projeto                                   |     Pull Request/Code Review         | Criar projeto + Escolher licença      |
 | 6-Apr-21 | ** Pesquisar sobre   Integração Continua e criar uma instancia para um projeto |                |                                       |
