@@ -1,8 +1,6 @@
 # Pull request e Code review 
 
-**INDIVIDUAL**
-
-**Deadline**: XXXXX
+**DUPLA**
 
 **How to submit**: Pull Request no GitHub
 
@@ -16,7 +14,7 @@ Você tem que escrever um código que será revisado por um de seus colegas. A t
 3. Ajuste seu código de acordo com a revisão recebida
 
 ### Detalhes
-Cada um de vocês receberá uma função (veja abaixo). Você deve **implementar e criar o pull request** com sua função até o dia **XXXX**. Em seguida, atribuirei as avaliações àqueles que enviaram pull requests e espero que você prepare sua primeira rodada de avaliações até **XXXXX**. Após a revisão, você receberá uma lista de itens que precisam ser alterados (conforme decidido pelo revisor). A parte final da tarefa é implementar as mudanças até **XXXX**. Se você não tiver seu código no dia definido para envio, ou não entregar seu código atualizado, você não receberá crédito pela tarefa.
+Cada um de vocês receberá uma função (veja abaixo). Você deve **implementar e criar o pull request** com sua função até o dia **26/03/2021**. Em seguida, atribuirei as avaliações àqueles que enviaram pull requests e espero que você prepare sua primeira rodada de avaliações até **30/03/2021**. Após a revisão, você receberá uma lista de itens que precisam ser alterados (conforme decidido pelo revisor). A parte final da tarefa é implementar as mudanças até **01/04/2021**. Se você não tiver seu código no dia definido para envio, ou não entregar seu código atualizado, você não receberá crédito pela tarefa.
 
 ## Algumas coisinhas a mais:
 1. Quero que você pratique o fluxo de trabalho do GitHub também. Portanto, crie um repo em [UTFPR-SL] (https://www.github.com/UTFPR-SL) (Mesmo que não haja nada lá, basta criar o projeto);
