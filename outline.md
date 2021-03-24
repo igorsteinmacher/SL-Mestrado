@@ -5,7 +5,7 @@
 | 4-Mar-21 |     Software Livre o que? |                                     |                                       | 
 | 9-Mar-21 |  Software Livre: História e Motivos           |         |                                       |
 | 11-Mar-21  | ** [Atividade Catedral e o Bazar](assignments/cathbaz.md)                       |        | [Contribuição para o Wikipedia](assignments/wikipedia.md)         |
-| 16-Mar-21  | OSS Infrastructure: Git e GitHub                      |                                      |                                       |
+| 16-Mar-21  | OSS Infrastructure: Git e GitHub [Slides](notes/Lecture_03.pdf)                     |                                      |                                       |
 | 18-Mar-21  | ** [Atividade Lidando com Git](assignments/gitAssignment.md)                     | Contribuição para o Wikipedia        | Lidando com o Git                     |
 | 23-Mar-21 |     OSS Infrastructure: Code Review ([Slides](notes/Lecture_04.pdf))  |                    |  [Pull Request/Code Review Activity](assignments/PRcodeReview.md)                 |
 | 25-Mar-21 |  ** Code review                       |Lidando com o Git                     |      |
