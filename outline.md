@@ -9,8 +9,8 @@
 | 18-Mar-21  | ** [Atividade Lidando com Git](assignments/gitAssignment.md)                     | Contribuição para o Wikipedia        | Lidando com o Git                     |
 | 23-Mar-21 |     OSS Infrastructure: Code Review ([Slides](notes/Lecture_04.pdf))  |                    |  [Pull Request/Code Review Activity](assignments/PRcodeReview.md)                 |
 | 25-Mar-21 |  ** Code review                       |Lidando com o Git                     |      |
-| 30-Mar-21 |   Criando um projeto                                        |                                      |                                       |
-| 1-Apr-21 | ** Criando um projeto                                       |     Pull Request/Code Review         | Criar projeto + Escolher licença      |
+| 30-Mar-21 |   Criando um projeto ([Slides](notes/Lecture_05.pdf)                                        |                                      |                                       |
+| 1-Apr-21 | ** Criando um projeto                                       |     Pull Request/Code Review         | [Criar projeto + Escolher licença](assignments/openYourProject.md)    |
 | 6-Apr-21 | Contribuindo para um projeto |                |                                       |
 | 8-Mar-21 |  ** Começou!                            |                                      |     Contribuição para OSS!!           |
 | 13-Abr-21  |  Governança em projetos SL                            |                                      |                                       |
