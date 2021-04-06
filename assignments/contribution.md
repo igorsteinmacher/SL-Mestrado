@@ -20,7 +20,7 @@ Ao final do semestre, espera-se que você tenha uma ou mais contribuições envi
 | ------|------------------|-------|
 | Checkpoint 0 | ** Apresentação stand up (5-7 minutos) ** <br> Decisão sobre o projeto e plano de etapas para contribuição | |
 | Checkpoint 1 | ** Apresentação <br> ** \ * Apresentar os detalhes da (s) tarefa (s) + relatório de progresso <br> * Disponibilidade das primeiras impressões / diretrizes <br> * Análise arquitetural do software (documento) | |
-| Ponto de verificação 2 | ** Apresentação do grupo + instrutor ** <br> Relatório de progresso | |
+| Checkpoint 2 | ** Apresentação do grupo + instrutor ** <br> Relatório de progresso | |
 | Apresentação| Apresentação final (grupo + instrutor)| |
 | Contribution to Open Source ([Relatorio Final](#Relatório-final)) | Resumo do processo de contribuição (recomendo que seja escrito em tempo real para evitar o esquecimento) | |
 
