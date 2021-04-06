@@ -11,7 +11,7 @@
 | 25-Mar-21 |  ** Code review                       |Lidando com o Git                     |      |
 | 30-Mar-21 |   Criando um projeto ([Slides](notes/Lecture_05.pdf))                                        |                                      |                                       |
 | 1-Apr-21 | ** Criando um projeto                                       |     Pull Request/Code Review         | [Criar projeto + Escolher licença](assignments/openYourProject.md)    |
-| 6-Apr-21 | Contribuindo para um projeto([Slides](notes/Lecture_06.pdf) |                |                                       |
+| 6-Apr-21 | Contribuindo para um projeto ([Slides](notes/Lecture_06.pdf)) |                |                                       |
 | 8-Mar-21 |  ** Começou!                            |                                      |     [Contribuição para OSS!!](https://github.com/igorsteinmacher/SL-Mestrado/tree/master/assignments)           |
 | 13-Abr-21  |  Governança em projetos SL                            |                                      |                                       |
 | 15-Abr-21  |                               |     Criar projeto + Escolher licença |                                       |
