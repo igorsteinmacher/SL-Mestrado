@@ -13,9 +13,9 @@
 | 1-Apr-21 | ** Criando um projeto                                       |     Pull Request/Code Review         | [Criar projeto + Escolher licença](assignments/openYourProject.md)    |
 | 6-Apr-21 | Contribuindo para um projeto ([Slides](notes/Lecture_06.pdf)) |                |                                       |
 | 8-Mar-21 |  ** Começou!                            |                                      |     [Contribuição para OSS!!](https://github.com/igorsteinmacher/SL-Mestrado/tree/master/assignments)           |
-| 13-Abr-21  |  Governança em projetos SL                            |                                      |                                       |
+| 13-Abr-21  |  Trabalho no projeto                           |                                      |                                       |
 | 15-Abr-21  |                               |     Criar projeto + Escolher licença |                                       |
-| 20-Abr-21  | ** Escolha do projeto: criar video apresentacao        | Contribuição (Checkpoint 0)          |                                       |
+| 20-Abr-21  | Bots no GitHub        | Contribuição (Checkpoint 0)          |                                       |
 | 22-Abr-21 | Licenças e problemas                                    |                                      |                                       |
 | 27-Abr-21 |                                                         |                                      |                                       |
 | 29-Abr-21 |   HANDS ON!                                             | Contribuição (Checkpoint 1)          |                                       |
