@@ -11,8 +11,9 @@ Adicionem suas duplas:
 *
 
 ### Grupo 3
-*
-*
+* Hugo Velasco
+* Hugo Fumero
+* Luiz Philipe
 
 ### Grupo 4
 *
